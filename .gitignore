@@ -1,0 +1,7 @@
+node_modules
+build
+*.log
+
+*.lock
+
+.vim_auto_ses

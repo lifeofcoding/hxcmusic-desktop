@@ -59,7 +59,7 @@
         "eslint-plugin-react": "^7.17.0",
         "eslint-plugin-react-hooks": "^2.0.1",
         "prettier": "^1.16.4",
-        "react-scripts": "^3.3.0"
+        "react-scripts": "^5.0.1"
     },
     "browserslist": {
         "production": [
